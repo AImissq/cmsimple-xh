@@ -16,3 +16,7 @@ pages in one single html-file (content.htm).
 
 As of CMSimple_XH 1.7 the pages are separated by special HTML comments in content.htm,
 so H1-H6 can be used to structure each page.
+
+Edit by ackroydAI
+
+A working example of the code can be viewed here - https://aiindustries.ml
